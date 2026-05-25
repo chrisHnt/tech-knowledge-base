@@ -31,6 +31,7 @@ Chaque outil est synthétisé en fiche structurée dans le dossier `fiches/`. Le
 | 018 | [Sans titre](fiches/018-syncthing.md) | — | — |
 | 019 | [Sans titre](fiches/019-ladder.md) | — | — |
 | 020 | [Sans titre](fiches/020-immich.md) | — | — |
+| 021 | [Sans titre](fiches/021-adguardhome.md) | — | — |
 ---
 
 > Repo sœur : [ai-knowledge-base](https://github.com/chrisHnt/ai-knowledge-base)
