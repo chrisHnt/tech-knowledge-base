@@ -27,6 +27,7 @@ Chaque outil est synthétisé en fiche structurée dans le dossier `fiches/`. Le
 
 | 015 | [Sans titre](fiches/015-localsend.md) | — | — |
 | 016 | [Sans titre](fiches/016-freetube.md) | — | — |
+| 017 | [Sans titre](fiches/017-vaultwarden.md) | — | — |
 ---
 
 > Repo sœur : [ai-knowledge-base](https://github.com/chrisHnt/ai-knowledge-base)
