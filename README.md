@@ -28,4 +28,5 @@ Chaque outil est synthétisé en fiche structurée dans le dossier `fiches/`. Le
 
 ---
 
+| 016 | [016 — FreeTube](fiches/016-freetube.md) | Médias | FreeTube est un client desktop pour YouTube qui respecte la vie privée. Il perme |
 > Repo sœur : [ai-knowledge-base](https://github.com/chrisHnt/ai-knowledge-base)
