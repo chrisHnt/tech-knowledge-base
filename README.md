@@ -8,11 +8,21 @@ Chaque outil est synthétisé en fiche structurée dans le dossier `fiches/`. Le
 
 ## Index des fiches
 
-| # | Nom | Catégorie | Description courte | Lien |
-|---|-----|-----------|--------------------|------|
-| 001 | [Cal.diy](fiches/001-cal-diy.md) | Productivité / Scheduling | Alternative open source à Calendly, self-hosted, 100% MIT | https://github.com/calcom/cal.diy |
-| 002 | [AFFiNE](fiches/002-affine.md) | Productivité / Knowledge Base | Alternative open source à Notion + Miro, local-first, canvas + docs fusionnés | https://github.com/toeverything/AFFiNE |
-| 003 | [Postiz](fiches/003-postiz.md) | Productivité / Social Media | Alternative open source à Buffer/Hypefury, 30+ plateformes, IA intégrée | https://github.com/gitroomhq/postiz-app |
+| # | Nom | Catégorie | Description courte |
+|---|-----|-----------|-------------------|
+| 001 | [Cal.diy](fiches/001-cal-diy.md) | Productivité / Scheduling | Alternative open source à Calendly |
+| 002 | [AFFiNE](fiches/002-affine.md) | Productivité / Knowledge Base | Alternative à Notion + Miro, local-first |
+| 003 | [Postiz](fiches/003-postiz.md) | Productivité / Social Media | Alternative à Buffer/Hypefury, 30+ plateformes |
+| 004 | [Paperless-ngx](fiches/004-paperless-ngx.md) | Productivité / Documents | OCR + archivage auto de tous tes documents |
+| 005 | [Karakeep](fiches/005-karakeep.md) | Productivité / Favoris | Read-it-later + archivage local, alternative à Pocket |
+| 006 | [Vaultwarden](fiches/006-vaultwarden.md) | Sécurité / Mots de passe | Serveur Bitwarden léger en Rust, alternative à 1Password |
+| 007 | [Anytype](fiches/007-anytype.md) | Productivité / Notes | Knowledge base chiffrée E2E, alternative à Notion |
+| 008 | [AdGuard Home](fiches/008-adguard-home.md) | Réseau / Sécurité | Bloqueur de pubs réseau-wide via DNS, alternative à NextDNS |
+| 009 | [Syncthing](fiches/009-syncthing.md) | Productivité / Sync | Sync fichiers P2P chiffrée, alternative à Dropbox |
+| 010 | [Home Assistant](fiches/010-home-assistant.md) | Domotique / IoT | Plateforme domotique locale, 3000+ intégrations |
+| 011 | [Audiobookshelf](fiches/011-audiobookshelf.md) | Médias / Audio | Serveur audiobooks + podcasts, apps mobiles natives |
+| 012 | [Stirling-PDF](fiches/012-stirling-pdf.md) | Productivité / PDF | Suite PDF locale 50+ opérations, alternative à Adobe Acrobat |
+| 013 | [Bitwarden Send](fiches/013-bitwarden-send.md) | Sécurité / Partage | Partage de fichiers chiffrés temporaires |
 
 ---
 
