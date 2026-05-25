@@ -27,5 +27,6 @@ Chaque outil est synthétisé en fiche structurée dans le dossier `fiches/`. Le
 | 015 | [LocalSend](fiches/015-localsend.md) | Réseau / Partage | Alternative AirDrop multiplateforme, sans compte ni cloud |
 | 016 | [FreeTube](fiches/016-freetube.md) | Médias | Client desktop YouTube sans pub ni tracking, sans compte Google |
 | 017 | [Ladder](fiches/017-ladder.md) | Réseau / Vie privée | Proxy auto-hébergé pour contourner les paywalls |
+| 018 | [018 — Immich](fiches/018-immich.md) | Médias | Immich est une alternative auto-hébergée à Google Photos, conçue pour remplacer  |
 
 > Repo sœur : [ai-knowledge-base](https://github.com/chrisHnt/ai-knowledge-base)
