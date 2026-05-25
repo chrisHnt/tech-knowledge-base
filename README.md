@@ -26,6 +26,7 @@ Chaque outil est synthétisé en fiche structurée dans le dossier `fiches/`. Le
 | 014 | [FMHY](fiches/014-fmhy.md) | Ressources / Annuaire web | Plus grand annuaire de ressources gratuites, section IA incluse |
 
 
+| 015 | [Sans titre](fiches/015-localsend.md) | — | — |
 ---
 
 > Repo sœur : [ai-knowledge-base](https://github.com/chrisHnt/ai-knowledge-base)
