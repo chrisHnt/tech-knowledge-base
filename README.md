@@ -25,16 +25,7 @@ Chaque outil est synthétisé en fiche structurée dans le dossier `fiches/`. Le
 | 013 | [Bitwarden Send](fiches/013-bitwarden-send.md) | Sécurité / Partage | Partage de fichiers chiffrés temporaires |
 | 014 | [FMHY](fiches/014-fmhy.md) | Ressources / Annuaire web | Plus grand annuaire de ressources gratuites, section IA incluse |
 
-| 015 | [Sans titre](fiches/015-localsend.md) | — | — |
-| 016 | [Sans titre](fiches/016-freetube.md) | — | — |
-| 017 | [Sans titre](fiches/017-vaultwarden.md) | — | — |
-| 018 | [Sans titre](fiches/018-syncthing.md) | — | — |
-| 019 | [Sans titre](fiches/019-ladder.md) | — | — |
-| 020 | [Sans titre](fiches/020-immich.md) | — | — |
-| 021 | [Sans titre](fiches/021-adguardhome.md) | — | — |
-| 022 | [Sans titre](fiches/022-jellyfin.md) | — | — |
-| 023 | [Sans titre](fiches/023-librechat.md) | — | — |
-| 024 | [Sans titre](fiches/024-uptime-kuma.md) | — | — |
+
 ---
 
 > Repo sœur : [ai-knowledge-base](https://github.com/chrisHnt/ai-knowledge-base)
