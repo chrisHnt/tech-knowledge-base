@@ -25,8 +25,6 @@ Chaque outil est synthétisé en fiche structurée dans le dossier `fiches/`. Le
 | 013 | [Bitwarden Send](fiches/013-bitwarden-send.md) | Sécurité / Partage | Partage de fichiers chiffrés temporaires |
 | 014 | [FMHY](fiches/014-fmhy.md) | Ressources / Annuaire web | Plus grand annuaire de ressources gratuites, section IA incluse |
 | 015 | [LocalSend](fiches/015-localsend.md) | Réseau / Partage | Alternative AirDrop multiplateforme, sans compte ni cloud |
+| 016 | [FreeTube](fiches/016-freetube.md) | Médias | Client desktop YouTube sans pub ni tracking, sans compte Google |
 
----
-
-| 016 | [016 — FreeTube](fiches/016-freetube.md) | Médias | FreeTube est un client desktop pour YouTube qui respecte la vie privée. Il perme |
 > Repo sœur : [ai-knowledge-base](https://github.com/chrisHnt/ai-knowledge-base)
