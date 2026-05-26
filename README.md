@@ -29,5 +29,6 @@ Chaque outil est synthétisé en fiche structurée dans le dossier `fiches/`. Le
 | 017 | [Ladder](fiches/017-ladder.md) | Réseau / Vie privée | Proxy auto-hébergé pour contourner les paywalls |
 | 018 | [018 — Immich](fiches/018-immich.md) | Médias | Immich est une alternative auto-hébergée à Google Photos, conçue pour remplacer  |
 | 019 | [019 — AdGuard Home](fiches/019-adguardhome.md) | Réseau | AdGuard Home est un bloqueur de publicités et de trackers au niveau du réseau, c |
+| 020 | [020 — Jellyfin](fiches/020-jellyfin.md) | Médias | Jellyfin est une plateforme open source de streaming multimédia auto-hébergée, s |
 
 > Repo sœur : [ai-knowledge-base](https://github.com/chrisHnt/ai-knowledge-base)
